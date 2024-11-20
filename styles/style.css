@@ -300,13 +300,12 @@ a {
 }
 
 input[type='checkbox']:checked + span {
-  content: '';
-  position: relative;
+  content: '2';
 }
 
 input[type='checkbox']:checked + span::before {
+  display: block;
   content: '';
-  position: absolute;
   top: 0;
   left: 0;
   width: 17px;
