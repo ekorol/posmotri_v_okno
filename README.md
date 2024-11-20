@@ -1,4 +1,4 @@
-https://github.com/ekorol/ono-tebe-nado
+https://github.com/ekorol/posmotri_v_okno
 
 # Посмотри в окно
 
