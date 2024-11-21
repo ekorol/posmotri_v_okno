@@ -73,16 +73,18 @@ a {
 
 .content__list {
   position: relative;
-  display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
   justify-content: flex-start;
   align-items: stretch;
-  gap: 30px;
   width: 400px;
   height: 300px;
   padding: 4px;
-  overflow-x: hidden;
+  overflow-x: auto;
+}
+
+.content__list-item {
+  margin-bottom: 30px;
 }
 
 .content__details {
