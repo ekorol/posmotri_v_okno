@@ -87,6 +87,10 @@ a {
   margin-bottom: 30px;
 }
 
+.content__list-item:last-child {
+  margin-bottom: 0;
+}
+
 .content__details {
   width: 400px;
 }
